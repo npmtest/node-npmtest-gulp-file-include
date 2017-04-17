@@ -1,7 +1,7 @@
 # test coverage for  [gulp-file-include (v1.1.0)](https://github.com/coderhaoxin/gulp-file-include#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-file-include.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-file-include) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-file-include.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-file-include)
 #### a gulp plugin for file include
 
-[![NPM](https://nodei.co/npm/gulp-file-include.png?downloads=true)](https://www.npmjs.com/package/gulp-file-include)
+[![NPM](https://nodei.co/npm/gulp-file-include.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-file-include)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-file-include/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-file-include/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-file-include/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-file-include/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-file-include/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-file-include/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-file-include/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-file-include/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-file-include/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-file-include/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-file-include%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-file-include/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-file-include/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-file-include/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-file-include/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-file-include%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-file-include/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-file-include/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-file-include/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-file-include/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-file-include/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-file-include/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-file-include/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-file-include/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-file-include/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-file-include/build/screenCapture.npmPackageListing.svg)
 
@@ -34,12 +40,10 @@
     },
     "contributors": [
         {
-            "name": "Bogdan Chadkin",
-            "email": "trysound@yandex.ru"
+            "name": "Bogdan Chadkin"
         },
         {
-            "name": "Arthur Araújo",
-            "email": "webarthur@gmail.com"
+            "name": "Arthur Araújo"
         }
     ],
     "dependencies": {
@@ -80,21 +84,17 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "coderhaoxin",
-            "email": "coderhaoxin@outlook.com"
+            "name": "coderhaoxin"
         },
         {
-            "name": "trysound",
-            "email": "trysound@yandex.ru"
+            "name": "trysound"
         },
         {
-            "name": "haoxins",
-            "email": "haoxins@icloud.com"
+            "name": "haoxins"
         }
     ],
     "name": "gulp-file-include",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/coderhaoxin/gulp-file-include.git"
