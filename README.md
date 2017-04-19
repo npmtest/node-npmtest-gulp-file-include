@@ -1,4 +1,7 @@
-# test coverage for  [gulp-file-include (v1.1.0)](https://github.com/coderhaoxin/gulp-file-include#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-file-include.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-file-include) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-file-include.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-file-include)
+# npmtest-gulp-file-include
+
+#### test coverage for  [gulp-file-include (v1.1.0)](https://github.com/coderhaoxin/gulp-file-include#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-file-include.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-file-include) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-file-include.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-file-include)
+
 #### a gulp plugin for file include
 
 [![NPM](https://nodei.co/npm/gulp-file-include.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-file-include)
